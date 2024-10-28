@@ -1,0 +1,3 @@
+# Create a ship with empty torpedo stores, both would fail
+GT4500,0,1,0,1
+TORPEDO,SINGLE  # when firing the primary store the program fails

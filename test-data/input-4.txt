@@ -1,0 +1,4 @@
+# Create a ship with empty torpedo stores that never fail
+GT4500,0,0,0,0
+TORPEDO,SINGLE  # when firing the primary store, the program should have
+# tried to fire the secondary store, but, as it's empty, it failed
